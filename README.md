@@ -1,7 +1,3 @@
-> # Development of this repository has moved to https://github.com/CoEDL/olac-visualisation-v1
->
-> ## Issues raised in this repository will be ignored.
-
 # OLAC Visualisation
 
 # About this project
