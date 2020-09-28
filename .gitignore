@@ -8,3 +8,6 @@ app/.sass-cache
 
 process-language-pages/data/
 process-language-pages/update.log
+
+node_modules
+olac-language-stats.csv

@@ -1,0 +1,16 @@
+{
+  "name": "process-language-pages",
+  "version": "1.0.0",
+  "description": "## Requirements lxml: apt-get install python-lxml",
+  "main": "create-report.js",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
