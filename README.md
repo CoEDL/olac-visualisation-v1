@@ -1,4 +1,4 @@
-> # This application is no longer being actively developed. A revised version will be coming soon.
+> # This application is no longer being actively developed. A new version can be found @ [https://github.com/CoEDL/olac-visualisation-v2](https://github.com/CoEDL/olac-visualisation-v2)
 
 # OLAC Visualisation
 
